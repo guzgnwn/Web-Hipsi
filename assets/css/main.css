@@ -1723,3 +1723,17 @@ section,
       line-height: 0.88; /* Menyesuaikan tinggi baris agar drop cap pas */
       font-weight: bold; /* Opsional: membuat huruf menjadi tebal */
     }
+
+.button {
+  background-color: #ff0000; /* Merah */
+  border: none;
+  color: white;
+  padding: 15px 400px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: large;
+  border-radius: 5px;
+}
